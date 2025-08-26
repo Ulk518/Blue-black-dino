@@ -52,8 +52,8 @@
     "INTERACTIVE_ACTIVE": ["#FFFFFF"],
     "INTERACTIVE_HOVER": ["#181818"],
     "INTERACTIVE_MUTED": ["#2A2A2A"],
-    "INTERACTIVE_NORMAL": ["#FFFFFF"],
-    "MENTION_BACKGROUND": ["#FFFFFF"],
+    "INTERACTIVE_NORMAL": ["#00a7d2"],
+    "MENTION_BACKGROUND": ["#0094ba"],
     "MENTION_FOREGROUND": ["#FFFFFF"],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#000000"],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#000000"],
@@ -69,8 +69,8 @@
     "POLLS_NORMAL_FILL_HOVER": ["#181818"],
     "POLLS_NORMAL_IMAGE_BACKGROUND": ["#000000"],
     "POLLS_VICTOR_FILL": ["#00a7d2"],
-    "TEXT_LINK": ["#FFFFFF"],
-    "TEXT_MUTED": ["#FFFFFF"],
+    "TEXT_LINK": ["#0094ba"],
+    "TEXT_MUTED": ["#00566b"],
     "TEXT_NORMAL": ["#FFFFFF"],
     "TEXT_PRIMARY": ["#FFFFFF"],
     "TEXT_SECONDARY": ["#FFFFFF"],
@@ -133,7 +133,7 @@
     "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
   },
   "background": {
-    "blur": 0.2,
+    "blur": 1.9,
     "url": "https://pomf2.lain.la/f/7pajt5ga.png",
     "OPACITY": 0
   },
