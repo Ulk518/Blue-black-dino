@@ -14,7 +14,7 @@
     "BACKGROUND_ACCENT": ["#08080830"],
     "BACKGROUND_FLOATING": ["#000000"],
     "BACKGROUND_MENTIONED": ["#00a7d240"],
-    "BACKGROUND_MENTIONED_HOVER": ["#FFFFFF"],
+    "BACKGROUND_MENTIONED_HOVER": ["#0094ba"],
     "SCROLLBAR_THIN_THUMB": ["#007fa0"],
     "SCROLLBAR_THIN_TRACK": ["#000000"],
     "SCROLLBAR_AUTO_THUMB": ["#00a7d2"],
@@ -23,7 +23,7 @@
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#181818"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": ["#0094ba"],
     "CHANNELS_DEFAULT": ["#FFFFFF"],
-    "BACKGROUND_MESSAGE_HOVER": ["#FFFFFF"],
+    "BACKGROUND_MESSAGE_HOVER": ["#007fa0"],
     "BACKGROUND_NESTED_FLOATING": ["#000000"],
     "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
     "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
@@ -52,7 +52,7 @@
     "INTERACTIVE_ACTIVE": ["#FFFFFF"],
     "INTERACTIVE_HOVER": ["#181818"],
     "INTERACTIVE_MUTED": ["#2A2A2A"],
-    "INTERACTIVE_NORMAL": ["#00A7D2"],
+    "INTERACTIVE_NORMAL": ["#00a7d2"],
     "MENTION_BACKGROUND": ["#0094ba"],
     "MENTION_FOREGROUND": ["#FFFFFF"],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#000000"],
@@ -133,9 +133,9 @@
     "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
   },
   "background": {
-    "blur": 0.5,
-    "url": "https://pomf2.lain.la/f/8uxstx62.jpg",
-    "OPACITY": 1
+    "blur": 0.2,
+    "url": "https://pomf2.lain.la/f/ci7gbfra.jpg",
+    "OPACITY": 0
   },
   "plus": {
     "version": "0",
